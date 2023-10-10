@@ -85,7 +85,8 @@
 
 /* Style Home Page */
 .home {
-  padding: 20px;
+  padding: 50px;
+  padding-right: 10%; 
   display: flex;
   align-items: center;
 }
